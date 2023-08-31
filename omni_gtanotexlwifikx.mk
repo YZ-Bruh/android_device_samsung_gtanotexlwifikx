@@ -19,10 +19,3 @@ PRODUCT_NAME := omni_gtanotexlwifikx
 PRODUCT_BRAND := samsung
 PRODUCT_MODEL := SM-P580
 PRODUCT_MANUFACTURER := samsung
-
-PRODUCT_GMS_CLIENTID_BASE := android-samsung
-
-PRODUCT_BUILD_PROP_OVERRIDES += \
-    PRIVATE_BUILD_DESC="gtanotexlwifikx-user 8.1.0 M1AJQ P580KXU1CSE1 release-keys"
-
-BUILD_FINGERPRINT := samsung/gtanotexlwifikx/gtanotexlwifikx:8.1.0/M1AJQ/P580KXU1CSE1:user/release-keys
